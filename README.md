@@ -1,16 +1,5 @@
-# vasilueva_list
+# Васильева Софья
 
-A new Flutter project.
+## Использование List и распределение кода по файлам
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="643" alt="Снимок экрана 2024-02-28 в 14 26 56" src="https://github.com/SofiyaVasileva/flatter_lesson_itemlist/assets/91559612/5723b7f1-1d58-4775-9441-06452e7dcefd">
